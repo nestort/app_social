@@ -1,0 +1,23 @@
+<ion-header>
+    <ion-navbar hideBackButton *navbar>
+    <ion-title>
+      Home
+    </ion-title>
+  </ion-navbar>
+</ion-header>
+
+<ion-content >
+  
+  <ion-img style="min-width: 100%;  min-height: 200px;" src="../../assets/imgs/ci.png"></ion-img>
+
+  <div style="margin: 20px 0px 40px 80px !important;">
+      <button ion-button full style="height: 70px;" (click)="Catalogo()" >Catalogo</button>
+      <button ion-button full style="height: 70px;"(click)="Busqueda()">Busqueda</button>
+      <button ion-button full style="height: 70px;"(click)="Social()">Noticias y avisos</button>
+      
+      
+      
+  </div>
+  
+  <button ion-button block outline (click)="CerrarSesion()">Cerrar sesion</button>
+</ion-content>
