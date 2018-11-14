@@ -7,4 +7,5 @@
 **cd app_social**  
 * Instalar las dependencias  
 **npm install**  
-ionic serve  
+* Iniciar el servidor
+**ionic serve**
