@@ -1,7 +1,10 @@
 # app_social  
 
 # Instalación  
-git clone https://github.com/nestort/app_social.git  
+* Descargar el repositorio  
+** git clone https://github.com/nestort/app_social.git **  
+* Ingresar a  la carpeta  
 cd app_social  
-npm install  
+* Instalar las dependencias  
+** npm install **  
 ionic serve  
