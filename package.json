@@ -1,8 +1,8 @@
 {
-  "name": "bibliotecaITSLP",
+  "name": "Aplicacion social",
   "version": "0.0.1",
-  "author": "Ionic Framework",
-  "homepage": "http://ionicframework.com/",
+  "author": "Nestor Trinidad Montenegro Herrera",
+  "homepage": "",
   "private": true,
   "scripts": {
     "start": "ionic-app-scripts serve",
